@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / Green / Nav 2 - Green</title>
+    <g id="Icon-/-Green-/-Nav-2---Green" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(5.000000, 6.000000)" stroke="#30BE76">
+            <rect id="Rectangle" x="3" y="0" width="8" height="12"></rect>
+            <polyline id="Rectangle-Copy-2" points="13 0 14 0 14 12 13 12"></polyline>
+            <polyline id="Rectangle-Copy-3" points="1 0 -9.99200722e-16 0 -9.99200722e-16 12 1 12"></polyline>
+        </g>
+    </g>
+</svg>
